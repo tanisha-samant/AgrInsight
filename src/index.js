@@ -6,7 +6,7 @@ import {
 document.addEventListener('DOMContentLoaded', () => {
   // Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyBL8WjzYYCN3YrHwM5oNicUObeVd1-1eug",
+    apiKey: "Your API Key",
     authDomain: "agrinsight-final.firebaseapp.com",
     projectId: "agrinsight-final",
     storageBucket: "agrinsight-final.appspot.com",
